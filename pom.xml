@@ -87,6 +87,7 @@
         <module>hbase11xsqlreader</module>
         <module>elasticsearchwriter</module>
         <module>clickhousewriter</module>
+	<module>gpdbwriter</module>
 
         <!-- common support module -->
         <module>plugin-rdbms-util</module>
